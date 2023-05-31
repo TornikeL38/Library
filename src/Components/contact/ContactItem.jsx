@@ -10,7 +10,7 @@ const inputData = {
     },
     messages : {
         class : 'input-style',
-        placeholder : 'messages',
+        placeholder : 'Messages',
     },
 }   
 
